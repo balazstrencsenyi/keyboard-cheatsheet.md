@@ -1,13 +1,13 @@
-Shift 8 and 9 : ( ) 
 Option 8 and 9 : [ ]
-option 7 : { } 
+option 7 + ö : { }  
 Shift option y and x : < >
-Backtick: `
-Backslash: \ 
-Bar: |
-Tilde: ~ 
-Shift option 3 : # 
-Shift option 4 : $ 
+option + ű: `
+option + í: |
+alt + ü : \ 
+option + ú: ~ 
+Shift option 3 : #  
+option 4 : $ 
 option 1 : & 
 Shift option ? : * 
 option . : ; 
+shift + 0 : §
